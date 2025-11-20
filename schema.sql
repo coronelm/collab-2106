@@ -5,3 +5,4 @@ INSERT INTO fees (fees_id, student_id, amount) VALUES
 (1, 101, 1234.00),
 (2, 102, 6767.67),
 (3, 103, 1975.75);
+ALTER TABLE fees ADD COLUMN payment_status INT;
