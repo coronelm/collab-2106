@@ -5,3 +5,4 @@ CREATE TABLE enrollments (
     FOREIGN KEY (student_id) REFERENCES students(student_id),
     FOREIGN KEY (class_id) REFERENCES classes(class_id)
 );
+UPDATE users SET school_year = '2025-2026' WHERE users> ;
