@@ -1,4 +1,4 @@
-[200~CREATE TABLE enrollments (
+    CREATE TABLE enrollments (
     enrollment_id INT AUTO_INCREMENT PRIMARY KEY,
     student_id INT NOT NULL,
     class_id INT NOT NULL,
