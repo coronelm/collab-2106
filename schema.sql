@@ -3,3 +3,5 @@ ALTER TABLE enrollments ADD COLUMN school_year VARCHAR(100);
 ALTER TABLE enrollments ADD COLUMN school_year VARCHAR(100);
 ALTER TABLE enrollments ADD COLUMN school_year VARCHAR(100);
 ALTER TABLE users ADD COLUMN school_year VARCHAR(100);
+ALTER TABLE users ADD COLUMN school_year VARCHAR(100);
+ALTER TABLE users ADD COLUMN school_year VARCHAR(100);
